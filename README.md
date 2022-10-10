@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" align="right" width="450" height="auto">
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" align="right" width="450" height="auto" margin="5">
 
 ### Hi :wave:, I'm Emre Ates
 
