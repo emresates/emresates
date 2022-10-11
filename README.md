@@ -10,7 +10,7 @@
 
 
 
-##### I'm Emre from Turkey, I really enjoy learning languages and frameworks like React , Angular or Vue. If I say that I have improved myself enough in Front-end , I might consider learning Back-end and I can say that I took my first step with Django.
+#### I'm Emre from Turkey, I really enjoy learning languages and frameworks like React , Angular or Vue. If I say that I have improved myself enough in Front-end , I might consider learning Back-end and I can say that I took my first step with Django.
 
 ***
 
