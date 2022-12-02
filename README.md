@@ -10,7 +10,7 @@
 
 
 
-#### I'm Emre from Turkey, I really enjoy learning languages and frameworks like React , Angular or Vue. If I say that I have improved myself enough in Front-end , I might consider learning Back-end and I can say that I took my first step with Django.
+#### I'm Emre from Turkey, I really enjoy learning languages and frameworks like React. If I say that I have improved myself enough in Front-end , I might consider learning Back-end.
 
 ***
 
@@ -41,6 +41,8 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="70" height ="70">
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="70" height ="70">
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="70" height ="70">
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="70" height ="70">
 
