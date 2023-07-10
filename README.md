@@ -22,14 +22,9 @@
 [<img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/>][linkedin]
 
 
-
 [instagram]: https://www.instagram.com/secenory/
 [linkedin]: https://www.linkedin.com/in/emresates/
 
-
-
-<br>
-<br>
 <br>
 
 ### :computer: Tech I Use
