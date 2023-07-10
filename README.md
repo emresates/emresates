@@ -17,10 +17,12 @@
 ### :speech_balloon: You Can Reach Me 
 
 [<img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left"/>][instagram]
-![instagram](https://skillicons.dev/icons?i=linkedin)[instagram]
 
 [<img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/>][linkedin]
 
+<a href="https://www.linkedin.com/in/emresates/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 [instagram]: https://www.instagram.com/secenory/
 [linkedin]: https://www.linkedin.com/in/emresates/
