@@ -28,7 +28,7 @@
 
 ![Tech I Use](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express)
 
-### :keyboard: Not a Professional But Familiar
+### :keyboard: Not a Professional But Have Knowledge
 
 ![Familiar](https://skillicons.dev/icons?i=redux,graphql,django)
 
