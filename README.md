@@ -16,7 +16,7 @@
 
 ### :speech_balloon: You Can Reach Me 
 
-<a href="https://www.linkedin.com/in/emresates/">
+<a href="https://www.linkedin.com/in/emresates/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
