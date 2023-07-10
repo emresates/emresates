@@ -26,7 +26,7 @@
 
 ### :computer: Tech I Use
 
-![Tech I Use](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,jquery,postgres,mongodb,nodejs,express)
+![Tech I Use](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express)
 
 ### :keyboard: Not a Professional But Familiar
 
