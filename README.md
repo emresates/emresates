@@ -40,11 +40,6 @@
 
 ![Familiar](https://skillicons.dev/icons?i=redux,graphql,django)
 
-<br>
-<br>
-<br>
-<br>
-
 ##### :notebook: I'm Currently Learning
 
 ![Learning](https://skillicons.dev/icons?i=nextjs)
