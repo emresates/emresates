@@ -34,7 +34,7 @@
 
 ### :computer: Tech I Use
 
-![My Skills](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,jquery)
+![My Skills](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,jquery,postgres,mongodb,nodejs,express)
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="70" height ="70">
 
@@ -67,8 +67,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="70" height ="70">
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="70" height ="70">
-
-<img align="left" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"/>
 
 <br>
 <br>
