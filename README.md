@@ -36,6 +36,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,jquery,postgres,mongodb,nodejs,express)
 
+### :keyboard: Not a Professional But Familiar
+
+![My Skills](https://skillicons.dev/icons?i=redux,graphql,django)
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="70" height ="70">
 
