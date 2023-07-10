@@ -26,6 +26,8 @@
 [linkedin]: https://www.linkedin.com/in/emresates/
 
 <br>
+<br>
+<br>
 
 ### :computer: Tech I Use
 
