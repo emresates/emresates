@@ -37,11 +37,9 @@
 ![Learning](https://skillicons.dev/icons?i=nextjs)
 
 <br>
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=emresates&theme=radical&hide=contribs">
 
-<br>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact">
