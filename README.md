@@ -16,17 +16,13 @@
 
 ### :speech_balloon: You Can Reach Me 
 
-<a href="https://www.linkedin.com/in/emresates/" target="_blank">
+<a href="https://www.linkedin.com/in/emresates/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://www.instagram.com/secenory/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-<br>
-<br>
-<br>
 
 ### :computer: Tech I Use
 
