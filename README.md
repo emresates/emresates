@@ -2,7 +2,7 @@
 
 ### Hi :wave:, I'm Emre Ates
 
-## _Front End Developer_
+## _Frontend Developer_
 
  Coffee do I want coffee, boy I need more coffee for learning <font color="red"> `<code/>` </font> :coffee:
 
