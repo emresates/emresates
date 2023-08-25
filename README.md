@@ -26,15 +26,15 @@
 
 ### :computer: Tech I Use
 
-![Tech I Use](https://skillicons.dev/icons?i=react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express&perline=7)
+![Tech I Use](https://skillicons.dev/icons?i=react,nextjs,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express&perline=7)
 
 ### :keyboard: Not a Professional But Have Knowledge
 
 ![Familiar](https://skillicons.dev/icons?i=redux,graphql,django)
 
-##### :notebook: I'm Currently Learning
+// ##### :notebook: I'm Currently Learning
 
-![Learning](https://skillicons.dev/icons?i=nextjs)
+// ![Learning](https://skillicons.dev/icons?i=nextjs)
 
 <br>
 
