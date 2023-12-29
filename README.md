@@ -38,9 +38,9 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=emresates&theme=radical&hide=contribs">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact">
 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact">
+
 
