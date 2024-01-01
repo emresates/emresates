@@ -26,7 +26,7 @@
 
 ### :computer: Tech I Use
 
-![Tech I Use](https://skillicons.dev/icons?i=react,nextjs,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express&perline=7)
+![Tech I Use](https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express&perline=7)
 
 ### :keyboard: Not a Professional But Have Knowledge
 
@@ -38,9 +38,9 @@
 
 <br>
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true">
+<!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact">
-
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&stroke=00000&background=ffff&ring=ef4444&fire=ef4444&currStreakNum=00000&currStreakLabel=ef4444&sideNums=00000&sideLabels=00000&dates=00000&hide_border=false" />
 
 
 
