@@ -24,15 +24,11 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 ### :computer: Tech I Use
 
-![Tech I Use](https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,jquery,postgres,mongodb,nodejs,express&perline=7)
+![Tech I Use](https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express&perline=10)
 
-### :keyboard: Not a Professional But Have Knowledge
+// ### :keyboard: Not a Professional But Have Knowledge
 
-![Familiar](https://skillicons.dev/icons?i=redux,graphql,django)
-
-##### :notebook: I'm Currently Learning
-
-![Learning](https://skillicons.dev/icons?i=threejs)
+// ![Familiar](https://skillicons.dev/icons?i=graphql,django)
 
 <br>
 
