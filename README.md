@@ -28,7 +28,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 // ### :keyboard: Not a Professional But Have Knowledge
 
-// ![Familiar](https://skillicons.dev/icons?i=graphql,django)
+{* ![Familiar](https://skillicons.dev/icons?i=graphql,django) *}
 
 <br>
 
