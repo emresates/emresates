@@ -12,7 +12,14 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 ---
 
-### :speech_balloon: You Can Reach Me
+<h3 align="center">
+
+:speech_balloon: You Can Reach Me
+
+</h3>
+
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/emresates/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -22,6 +29,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
+</div>
 <h3 align="center">
 
   :computer: Tech I Use
@@ -30,7 +38,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,github&perline=6" />
+    <img align="center" src="https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,github&perline=9" />
   </a>
 </p>
 
@@ -38,14 +46,19 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <!-- ![Familiar](https://skillicons.dev/icons?i=graphql,django)  -->
 
-<br>
-
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
-<p align="center"> 
-  <div align="center">
-    <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />
-    <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
-  </div>
+<div align="center">    
+    <a href="https://github.com/emresates/">
+      <img  align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />  
+    </a>
+    <br>
+    <a href="https://github.com/emresates/">
+      <img align="center" width="60%"  src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
 
-  <img height="200" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
-</p>
+<div align="center">
+  <a href="">
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
+  </a>
+</div>
