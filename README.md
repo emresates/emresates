@@ -38,7 +38,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,github&perline=9" />
+    <img align="center" src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,sass,tailwind,bootstrap,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,threejs,github&perline=9" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
 <div align="center">    
     <a href="https://github.com/emresates/">
-      <img  align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />  
+      <img  align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb" />  
     </a>
     <br>
     <!-- <a href="https://github.com/emresates/">
