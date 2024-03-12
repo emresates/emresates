@@ -42,8 +42,6 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
   </div>
-  <br>
-<div align="center">
-  <img height="200" align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
-</div>
+
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
 </p>
