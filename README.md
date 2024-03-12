@@ -8,7 +8,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <br>
 
-#### I'm Emre from Turkey, a frontend developer with 1 year of experience. Skilled in Nextjs, React, and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies. 
+#### I'm Emre from Turkey, a frontend developer with 1 year of experience. Skilled in Nextjs, React, and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies.
 
 ---
 
@@ -24,14 +24,22 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 ### :computer: Tech I Use
 
-![Tech I Use](https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express&perline=10)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,github" />
+  </a>
+</p>
 
-// ### :keyboard: Not a Professional But Have Knowledge
+<!-- ### :keyboard: Not a Professional But Have Knowledge -->
 
-{* ![Familiar](https://skillicons.dev/icons?i=graphql,django) *}
+<!-- ![Familiar](https://skillicons.dev/icons?i=graphql,django)  -->
 
 <br>
 
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&stroke=00000&background=ffff&ring=ef4444&fire=ef4444&currStreakNum=00000&currStreakLabel=ef4444&sideNums=00000&sideLabels=00000&dates=00000&hide_border=false" />
+<p align="center"> 
+  <div align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&stroke=00000&background=ffff&ring=ef4444&fire=ef4444&currStreakNum=00000&currStreakLabel=ef4444&sideNums=00000&sideLabels=00000&dates=00000&hide_border=false" />
+  </div>
+</p>
