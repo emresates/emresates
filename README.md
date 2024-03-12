@@ -49,16 +49,16 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
 <div align="center">    
     <a href="https://github.com/emresates/">
-      <img  align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />  
+      <img  align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />  
     </a>
     <br>
-    <a href="https://github.com/emresates/">
-      <img align="center" width="60%"  src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
-    </a>
+    <!-- <a href="https://github.com/emresates/">
+      <img align="center" width="45%"  src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
+    </a> -->
 </div>
 
 <div align="center">
   <a href="">
-    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
   </a>
 </div>
