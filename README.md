@@ -8,7 +8,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <br>
 
-#### I'm Emre from Turkey, I really enjoy learning languages and frameworks like React. If I say that I have improved myself enough in Front-end , I might consider learning Back-end.
+#### I'm Emre from Turkey, a frontend developer with 1 year of experience. Skilled in Nextjs, React, and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies. 
 
 ---
 
