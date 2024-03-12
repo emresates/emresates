@@ -22,11 +22,15 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-### :computer: Tech I Use
+<h3 align="center">
+
+  :computer: Tech I Use
+
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,github" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,sass,css,bootstrap,tailwind,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,github&perline=6" />
   </a>
 </p>
 
@@ -39,9 +43,9 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
 <p align="center"> 
   <div align="center">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
+    <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb&hide_border=true" />
+    <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
   </div>
 
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
+  <img height="200" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
 </p>
