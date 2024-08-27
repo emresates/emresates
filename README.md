@@ -35,7 +35,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,sass,tailwind,bootstrap,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,threejs,github&perline=9" />
+    <img align="center" src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,sass,tailwind,bootstrap,materialui,styledcomponents,redux,jquery,postgres,mongodb,nodejs,express,threejs,github&perline=9" />
   </a>
 </p>
 
