@@ -8,7 +8,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 
 <br>
 
-#### I'm Emre from Turkey, a frontend developer with 2 years of experience. Skilled in Nextjs, React, Typescript and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies.
+#### I'm Emre from Turkey, a frontend developer with 3 years of experience. Skilled in Nextjs, React, Typescript and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies.
 
 ---
 
@@ -58,3 +58,4 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
   </a>
 </div>
+
