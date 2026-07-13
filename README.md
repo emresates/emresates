@@ -55,7 +55,7 @@ Coffee do I want coffee, boy I need more coffee for learning <font color="red"> 
 <br>
 <div align="center">
   <a href="">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
+    <img align="center" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
   </a>
 </div>
 
