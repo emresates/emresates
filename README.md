@@ -6,8 +6,6 @@
 
 Coffee do I want coffee, boy I need more coffee for learning <font color="red"> `<code/>` </font> :coffee:
 
-<br>
-
 #### I'm Emre from Turkey, a frontend developer with 3 years of experience. Skilled in Nextjs, React, Typescript and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies.
 
 ---
