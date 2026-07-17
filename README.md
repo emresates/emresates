@@ -1,59 +1,84 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" align="right" width="450" height="auto" margin="5px">
+<div align="center">
 
-### Hi :wave:, I'm Emre Ates
+# Hi, I'm Emre Ateş 👋
 
-## _Frontend Developer_
+### Frontend Developer · UI Enthusiast · Professional Pixel Mover
 
-Coffee do I want coffee, boy I need more coffee for learning <font color="red"> `<code/>` </font> :coffee:
+I build fast, responsive, and thoughtfully crafted digital experiences.<br/>
+Mostly with **React, Next.js, TypeScript**, and an unreasonable amount of coffee. ☕
 
-#### I'm Emre from Turkey, a frontend developer with 3 years of experience. Skilled in Nextjs, React, Typescript and JavaScript. Passionate about creating intuitive user interfaces and exploring new technologies.
+[![Portfolio](https://img.shields.io/badge/Portfolio-emresates.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.emresates.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emresates/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secenory/)
+
+</div>
 
 ---
 
-<h3 align="center">
+## About Me
 
-:speech_balloon: You Can Reach Me
+I'm a frontend developer from Türkiye who enjoys turning ideas into interfaces that feel as good as they look.
 
-</h3>
+- 🧩 I build modern web applications with **Next.js, React, and TypeScript**
+- 🎨 I care about clean UI, smooth interactions, accessibility, and performance
+- 📱 I'm currently expanding my mobile development skills with **Flutter**
+- 🧠 I enjoy learning new technologies—preferably before the documentation changes again
+- ☕ My code runs on logic; I run on coffee
+
+## Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emresates/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/secenory/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+
+### Core
+
+[![Core Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass)](https://skillicons.dev)
+
+### Tools & Technologies
+
+[![Tools](https://skillicons.dev/icons?i=flutter,nodejs,express,redux,postgres,mongodb,jest,git,github,figma)](https://skillicons.dev)
+
 </div>
 
-<h3 align="center">
+## What I Care About
 
-:computer: Tech I Use
+```ts
+const emre = {
+  builds: [
+    "Fast web apps",
+    "Responsive interfaces",
+    "Delightful user experiences",
+  ],
+  values: ["Clean code", "Performance", "Continuous learning"],
+  currentlyExploring: ["Flutter", "Creative frontend experiences"],
+  fueledBy: "Coffee ☕",
+};
+```
 
-</h3>
+## GitHub Activity
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=nextjs,react,flutter,js,ts,html,css,sass,tailwind,bootstrap,materialui,styledcomponents,jest,redux,jquery,postgres,mongodb,nodejs,express,threejs,github&perline=7" />
-  </a>
-</p>
-
-<!-- ### :keyboard: Not a Professional But Have Knowledge -->
-
-<!-- ![Familiar](https://skillicons.dev/icons?i=graphql,django)  -->
-
-<!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true"> -->
-<div align="center">    
-  <a href="https://github.com/emresates/">
-    <img  align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb" />  
-  </a> 
-  <!-- <a href="https://github.com/emresates/">
-    <img align="center" width="45%"  src="https://github-readme-stats.vercel.app/api?username=emresates&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
-  </a> -->
-</div>
-<br>
 <div align="center">
-  <a href="">
-    <img align="center" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham">
-  </a>
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb"
+    alt="Emre's GitHub streak"
+  />
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham"
+    alt="Emre's most used languages"
+  />
 </div>
 
+---
+
+<div align="center">
+
+### Have an idea worth building?
+
+**Let's turn it into something people enjoy using.**
+
+[Visit my portfolio](https://www.emresates.com) · [Connect on LinkedIn](https://www.linkedin.com/in/emresates/)
+
+<sub>Thanks for stopping by. The README is over, but the coffee probably isn't. ☕</sub>
+
+</div>
