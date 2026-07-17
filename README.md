@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="450" height="auto" >
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="450" height="auto" align="center" >
 <div align="center">
 
 # Hi, I'm Emre Ateş 👋
