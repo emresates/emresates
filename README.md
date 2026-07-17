@@ -60,13 +60,13 @@ const emre = {
 <div align="center">
   <img
     width="48%"
-    height="180px"
+    height="155px"
     src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb"
     alt="Emre's GitHub streak"
   />
   <img
     width="48%"
-    height="180px"
+    height="155px"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham"
     alt="Emre's most used languages"
   />
