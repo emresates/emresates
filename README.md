@@ -10,7 +10,6 @@ Mostly with **React, Next.js, TypeScript**, and an unreasonable amount of coffee
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-emresates.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.emresates.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emresates/) 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secenory/) 
 
 </div>
 
