@@ -3,7 +3,7 @@
 
 # Hi, I'm Emre Ateş 👋
 
-### Frontend Developer · UI Enthusiast · Professional Pixel Mover
+### Frontend Developer · UI Enthusiast
 
 I build fast, responsive, and thoughtfully crafted digital experiences.<br/>
 Mostly with **React, Next.js, TypeScript**, and an unreasonable amount of coffee. ☕
@@ -50,7 +50,7 @@ const emre = {
     "Delightful user experiences",
   ],
   values: ["Clean code", "Performance", "Continuous learning"],
-  currentlyExploring: ["Flutter", "Creative frontend experiences"],
+  currentlyExploring: ["Creative frontend experiences", "New web technologies"],
   fueledBy: "Coffee ☕",
 };
 ```
