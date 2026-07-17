@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="450" height="auto" align="center" >
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="450" height="auto" align="right" >
 <div align="center">
 
 # Hi, I'm Emre Ateş 👋
@@ -32,11 +32,11 @@ I'm a frontend developer from Türkiye who enjoys turning ideas into interfaces 
 
 ### Core
 
-[![Core Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass,flutter)](https://skillicons.dev)
 
 ### Tools & Technologies
 
-[![Tools](https://skillicons.dev/icons?i=flutter,nodejs,express,redux,postgres,mongodb,jest,git,github,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=nodejs,express,redux,postgres,mongodb,jest,git,github,figma)](https://skillicons.dev)
 
 </div>
 
@@ -60,11 +60,13 @@ const emre = {
 <div align="center">
   <img
     width="48%"
+    height="180px"
     src="https://github-readme-streak-stats.herokuapp.com/?user=emresates&theme=gotham&border=61dafb"
     alt="Emre's GitHub streak"
   />
   <img
     width="48%"
+    height="180px"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=emresates&layout=compact&theme=gotham"
     alt="Emre's most used languages"
   />
