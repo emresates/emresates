@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" align="right" width="450" height="auto" margin="5px">
 <div align="center">
 
 # Hi, I'm Emre Ateş 👋
@@ -7,11 +8,9 @@
 I build fast, responsive, and thoughtfully crafted digital experiences.<br/>
 Mostly with **React, Next.js, TypeScript**, and an unreasonable amount of coffee. ☕
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-emresates.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.emresates.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emresates/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secenory/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-emresates.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.emresates.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emresates/) 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secenory/) 
 
 </div>
 
